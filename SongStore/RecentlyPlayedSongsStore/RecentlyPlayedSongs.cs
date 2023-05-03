@@ -9,13 +9,13 @@ namespace RecentlyPlayedSongsStore
     public class RecentlyPlayedSongs
     {
         private int _capacity;
-        private Dictionary<User, LinkedListNode<SongUserPair>> _songMap;
+        private Dictionary<string, LinkedListNode<SongUserPair>> _songMap;
         private LinkedList<SongUserPair> _recentlyPlayedSongsList;
 
         public RecentlyPlayedSongs(int initialCapacity)
         {
             _capacity = initialCapacity;
-            _songMap = new Dictionary<User, LinkedListNode<SongUserPair>>();
+            _songMap = new Dictionary<string, LinkedListNode<SongUserPair>>();
             _recentlyPlayedSongsList = new LinkedList<SongUserPair>();
         }
 
@@ -27,7 +27,7 @@ namespace RecentlyPlayedSongsStore
             if (_recentlyPlayedSongsList.Count >= _capacity)
             {
                 SongUserPair leastRecentlyPlayedPair = _recentlyPlayedSongsList.First.Value;
-                _songMap.Remove(leastRecentlyPlayedPair.User);
+                _songMap.Remove(leastRecentlyPlayedPair.User.Name);
                 _recentlyPlayedSongsList.RemoveFirst();
             }
 
@@ -35,16 +35,16 @@ namespace RecentlyPlayedSongsStore
             LinkedListNode<SongUserPair> node = _recentlyPlayedSongsList.AddLast(pair);
 
             // Update the song map with the new node
-            _songMap[user] = node;
+            _songMap[user.Name] = node;
         }
 
         public List<Song> GetRecentlyPlayedSongs(User user)
         {
-            if (_songMap.ContainsKey(user))
+            if (_songMap.ContainsKey(user.Name))
             {
                 // Move the song-user pair to the end of the list to indicate that it's the most recently played
-                _recentlyPlayedSongsList.Remove(_songMap[user]);
-                _recentlyPlayedSongsList.AddLast(_songMap[user]);
+                _recentlyPlayedSongsList.Remove(_songMap[user.Name]);
+                _recentlyPlayedSongsList.AddLast(_songMap[user.Name]);
 
                 // Create a list of the user's recently played songs
                 List<Song> recentlyPlayedSongs = new List<Song>();
