@@ -1,6 +1,0 @@
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\RecentlyPlayedSongsStore\bin\Release\RecentlyPlayedSongsStore.dll
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\RecentlyPlayedSongsStore\bin\Release\RecentlyPlayedSongsStore.pdb
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\RecentlyPlayedSongsStore\obj\Release\RecentlyPlayedSongsStore.csproj.AssemblyReference.cache
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\RecentlyPlayedSongsStore\obj\Release\RecentlyPlayedSongsStore.csproj.CoreCompileInputs.cache
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\RecentlyPlayedSongsStore\obj\Release\RecentlyPlayedSongsStore.dll
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\RecentlyPlayedSongsStore\obj\Release\RecentlyPlayedSongsStore.pdb
