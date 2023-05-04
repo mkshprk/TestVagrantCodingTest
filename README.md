@@ -18,4 +18,10 @@ We will be creating the software using C#
 Codebase consists of 3 projects
 	• RecentlyPlayedSongsStore : Business logic of the application
 	• SongStore : Application which is used by end user to interact with the application
-	• UnitTestProject : project consisting of tests to test the api 
+	• UnitTestProject : project consisting of tests to test the api
+
+To Run the test
+	- clone the repo
+	- Navigate inside UnitTestProject directory
+	- Open command prompt
+	- type: dotnet test
