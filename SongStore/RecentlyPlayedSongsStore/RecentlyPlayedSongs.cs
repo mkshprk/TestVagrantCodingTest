@@ -22,8 +22,7 @@ namespace RecentlyPlayedSongsStore
             // Remove the least recently played song if the store is full
             if (_recentlyPlayedSongsList.Count >= _capacity)
             {
-                SongUserPair leastRecentlyPlayedPair = _recentlyPlayedSongsList.First.Value;
-                _songMap.Remove(leastRecentlyPlayedPair.User.Name);
+                _songMap.Remove(_recentlyPlayedSongsList.First.Value.User.Name);
                 _recentlyPlayedSongsList.RemoveFirst();
             }
 

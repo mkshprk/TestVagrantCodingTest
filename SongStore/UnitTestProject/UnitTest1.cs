@@ -27,7 +27,7 @@ namespace UnitTestProject
         [Fact]
         public void SongUserPairListMaintained_Test()
         {
-            var _songs = new Dictionary<string, List<Song>>();
+            #region Data
             var user1 = new User() { Name = "User_1" };
             var user1SongList = new List<Song>()
             {
@@ -41,7 +41,9 @@ namespace UnitTestProject
                 new Song() { Name = Helpers.GetSongName()},
                 new Song() { Name = Helpers.GetSongName()},
                 new Song() { Name = Helpers.GetSongName()}
-            };
+            }; 
+            #endregion
+
             RecentlyPlayedSongs recentlyPlayedSongs = new RecentlyPlayedSongs(user1SongList.Count);
             foreach (Song song in user1SongList)
             {
@@ -60,6 +62,7 @@ namespace UnitTestProject
         [Fact]
         public void RecentlyPlayedSongsMaintainedBasedOnInsertion_Test()
         {
+            #region Data
             int initialCapacity = 3;
             var userList = new List<User>()
             {
@@ -78,7 +81,8 @@ namespace UnitTestProject
                 new Song() { Name = Helpers.GetSongName()},
                 new Song() { Name = Helpers.GetSongName()},
                 new Song() { Name = Helpers.GetSongName()}
-            };
+            }; 
+            #endregion
 
             var recentlyPlayedSongsList = new List<RecentlyPlayedSongs>();
             RecentlyPlayedSongs recentlyPlayedSongs = new RecentlyPlayedSongs(initialCapacity);

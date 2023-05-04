@@ -26,7 +26,11 @@ namespace SongStore
             var songsUserPair = GetListOfUserSongPair(numberOfUsers, numberOfSongs);
 
             int userIndex = 0;
-            foreach(var songsUser in songsUserPair)
+
+            
+
+
+            foreach (var songsUser in songsUserPair)
             {
                 Console.WriteLine($"{listOfUsers[userIndex]}'s recently played songs:");
                 var songs = songsUser.GetRecentlyPlayedSongs(new User() { Name = listOfUsers[userIndex++] });
