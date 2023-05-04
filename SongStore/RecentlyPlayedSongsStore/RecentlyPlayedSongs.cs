@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace RecentlyPlayedSongsStore
 {
@@ -50,7 +46,7 @@ namespace RecentlyPlayedSongsStore
                 List<Song> recentlyPlayedSongs = new List<Song>();
                 foreach (SongUserPair pair in _recentlyPlayedSongsList)
                 {
-                    if (pair.User == user)
+                    if (pair.User.Name == user.Name)
                     {
                         recentlyPlayedSongs.Add(pair.Song);
                     }

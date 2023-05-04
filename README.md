@@ -14,3 +14,8 @@ When S1 song is played -> S4,S2,S1
 
 
 We will be creating the software using C#
+
+Codebase consists of 3 projects
+	• RecentlyPlayedSongsStore : Business logic of the application
+	• SongStore : Application which is used by end user to interact with the application
+	• UnitTestProject : project consisting of tests to test the api 

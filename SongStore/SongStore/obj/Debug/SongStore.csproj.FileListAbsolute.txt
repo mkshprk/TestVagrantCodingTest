@@ -4,7 +4,6 @@ C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\S
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\bin\Debug\RecentlyPlayedSongsStore.dll
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\bin\Debug\RecentlyPlayedSongsStore.pdb
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Debug\SongStore.csproj.AssemblyReference.cache
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Debug\SongStore.csproj.SuggestedBindingRedirects.cache
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Debug\SongStore.csproj.CoreCompileInputs.cache
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Debug\SongStore.csproj.CopyComplete
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Debug\SongStore.exe

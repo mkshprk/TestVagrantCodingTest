@@ -1,0 +1,10 @@
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\bin\Release\SongStore.exe.config
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\bin\Release\SongStore.exe
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\bin\Release\SongStore.pdb
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\bin\Release\RecentlyPlayedSongsStore.dll
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\bin\Release\RecentlyPlayedSongsStore.pdb
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Release\SongStore.csproj.AssemblyReference.cache
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Release\SongStore.csproj.CoreCompileInputs.cache
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Release\SongStore.csproj.CopyComplete
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Release\SongStore.exe
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\SongStore\obj\Release\SongStore.pdb

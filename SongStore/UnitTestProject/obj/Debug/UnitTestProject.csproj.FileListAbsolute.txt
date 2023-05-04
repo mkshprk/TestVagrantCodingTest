@@ -21,7 +21,6 @@ C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\U
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\bin\Debug\xunit.core.xml
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\bin\Debug\xunit.execution.desktop.xml
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
-C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.csproj.SuggestedBindingRedirects.cache
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.dll
