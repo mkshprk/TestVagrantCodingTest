@@ -25,3 +25,5 @@ C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\U
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.dll
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Debug\UnitTestProject.csproj.SuggestedBindingRedirects.cache

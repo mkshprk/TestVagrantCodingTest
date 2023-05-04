@@ -25,3 +25,4 @@ C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\U
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Release\UnitTestProject.csproj.CopyComplete
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Release\UnitTestProject.dll
 C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\obj\Release\UnitTestProject.pdb
+C:\Users\z003tn9n\Desktop\Personal\TestVagrant\TestVagrantCodingTest\SongStore\UnitTestProject\bin\Release\Microsoft.VisualStudio.CodeCoverage.Shim.dll
